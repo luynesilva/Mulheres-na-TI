@@ -1,0 +1,59 @@
+body{
+    background-color:beige;
+    margin-top:25px;
+    margin-left:25px;
+    margin-bottom:25px;
+    margin-right:25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: size 20px; ;
+    color:purple;
+    text-align: justify;
+
+}
+
+h1{
+color: black;
+background-color: blueviolet;
+text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 12px solid blueviolet;
+    border-radius: 100%;
+    
+}
+img:hover{
+    opacity: 70%;
+}
+
+h2{
+    color: black;
+    background-color: purple;
+    text-align: center;
+
+}
+
+h3{
+    color: black;
+    background-color: purple;
+    text-align: center;
+}
+.um{
+    height: 200px;
+    width: 200px;
+    border: 11px solid rgb(134, 94, 134);
+    border-radius: 100%;
+    margin-left: 500px;
+    
+
+}
+.dois{
+    height: 200px;
+    width: 200px;
+    border: 11px solid rgb(134, 94, 134);
+    border-radius: 100%;
+    margin-left: 500px;
+
+}
